@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 600586d797b7583ff892b493203d36be5948d5a2 yordanos1295 <malachi3498@gmail.com> 1651196174 -0700	clone: from https://github.com/craftgithubuser/craftcommon14.git
+600586d797b7583ff892b493203d36be5948d5a2 600586d797b7583ff892b493203d36be5948d5a2 yordanos1295 <malachi3498@gmail.com> 1651197767 -0700	checkout: moving from main to 1st-branch
+600586d797b7583ff892b493203d36be5948d5a2 600586d797b7583ff892b493203d36be5948d5a2 yordanos1295 <malachi3498@gmail.com> 1651197775 -0700	checkout: moving from 1st-branch to main
+600586d797b7583ff892b493203d36be5948d5a2 dfc3736a1105456d239785ab84481a5d12f9f58a yordanos1295 <malachi3498@gmail.com> 1651197854 -0700	pull --ff --progress origin: Fast-forward
+dfc3736a1105456d239785ab84481a5d12f9f58a 7d083e0f6059de15368cca90b39e740c0a49ec38 yordanos1295 <malachi3498@gmail.com> 1651446468 -0700	pull --ff --progress origin: Fast-forward
+7d083e0f6059de15368cca90b39e740c0a49ec38 026c8709125e07850d3864a780e7d8db1cd5ce82 yordanos1295 <malachi3498@gmail.com> 1651447119 -0700	pull --ff --progress origin: Fast-forward
+026c8709125e07850d3864a780e7d8db1cd5ce82 81d0be735b5b7ed4d0971e847624db8d0c67f522 yordanos1295 <malachi3498@gmail.com> 1651447646 -0700	commit: i update change.docx
+81d0be735b5b7ed4d0971e847624db8d0c67f522 ff393002ec352a2076e6808fb500024dcfe988cc yordanos1295 <malachi3498@gmail.com> 1651448168 -0700	commit: update yordanos12.tex
+ff393002ec352a2076e6808fb500024dcfe988cc 820f95cc5a58a4c61d584d2790a2b0c898533a55 yordanos1295 <malachi3498@gmail.com> 1651448196 -0700	pull --ff --progress origin: Merge made by the 'ort' strategy.
+820f95cc5a58a4c61d584d2790a2b0c898533a55 0056c3ce5f36be2f5bde70c489437bd3629aa315 yordanos1295 <malachi3498@gmail.com> 1651455755 -0700	pull --ff --progress origin: Fast-forward
+0056c3ce5f36be2f5bde70c489437bd3629aa315 fd6cd43f7be7c798b59474d3562f83b5e022c653 yordanos1295 <malachi3498@gmail.com> 1651456839 -0700	commit: add this file
+fd6cd43f7be7c798b59474d3562f83b5e022c653 3e98408573e5334cb6ebb44e80783c022d1bd0dd yordanos1295 <malachi3498@gmail.com> 1651456855 -0700	pull --ff --progress origin: Merge made by the 'ort' strategy.
+3e98408573e5334cb6ebb44e80783c022d1bd0dd 6e42bdfc2e54869185cf05bb72780a6f66012d72 yordanos1295 <malachi3498@gmail.com> 1651457177 -0700	checkout: moving from main to malachi
+6e42bdfc2e54869185cf05bb72780a6f66012d72 3e98408573e5334cb6ebb44e80783c022d1bd0dd yordanos1295 <malachi3498@gmail.com> 1651457186 -0700	merge main: Fast-forward
+3e98408573e5334cb6ebb44e80783c022d1bd0dd 3e98408573e5334cb6ebb44e80783c022d1bd0dd yordanos1295 <malachi3498@gmail.com> 1651457460 -0700	checkout: moving from malachi to african
+3e98408573e5334cb6ebb44e80783c022d1bd0dd 3e98408573e5334cb6ebb44e80783c022d1bd0dd yordanos1295 <malachi3498@gmail.com> 1651458418 -0700	checkout: moving from african to malachi
